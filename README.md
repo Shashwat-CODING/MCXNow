@@ -3,7 +3,7 @@
 A modern, real-time Multi Commodity Exchange (MCX) market viewer application built with Flutter that provides live updates using Server-Sent Events (SSE).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/stock_app/main/assets/mcx-logo.png" alt="MCXNow Logo" width="200">
+  <img src="https://github.com/Shashwat-CODING/MCXNow/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true" alt="MCXNow Logo" width="200">
   <p><em>Real-time MCX Market Data at Your Fingertips</em></p>
 </div>
 
